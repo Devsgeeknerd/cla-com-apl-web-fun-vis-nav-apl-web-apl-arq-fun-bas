@@ -4,11 +4,11 @@
 ***Conteúdo da Aula:***
 
 * O navegador entende basicamente:
-  * HTML:
+  * ***HTML***:
     * E uma linguagem de marcação, que define uma estrutura da pagina e os elementos dentro dela.
-  * CSS:
-    * E uma linguagem de estilo, que define dentro do HTML a aparência do elemento, onde ele deve ficar e todos os detalhes sobre a parte visual.
-  * JavaScript:
+  * ***CSS***:
+    * E uma linguagem de estilo, que define dentro do *HTML* a aparência do elemento, onde ele deve ficar e todos os detalhes sobre a parte visual.
+  * ***JavaScript***:
     * E uma linguagem de programação que roda dentro do navegador;
     * Ela também define o comportamento da aplicação.
 
